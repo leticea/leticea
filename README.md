@@ -2,3 +2,7 @@
 
 - 🌱 I’m currently learning HTML5, CSS3, PHP, LARAVEL, DOCKER, NODEJS, SQL, JAVASCRIPT, TYPESCRIPT, REACT...
 - 📫 How to reach me: nascimento.leticeah@gmail.com
+
+## Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
