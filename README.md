@@ -34,7 +34,7 @@
 
 </br>
 
-<a href="https://www.linkedin.com/in/leticea" target="_blank"><img align="left" alt="LinkedIn" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" target="_blank" />
+<a href="https://www.linkedin.com/in/leticea" target="_blank" rel="noopener"><img align="left" alt="LinkedIn" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 </br>
 
